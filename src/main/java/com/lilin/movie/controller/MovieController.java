@@ -26,7 +26,7 @@ import com.lilin.movie.vo.MovieVO;
 
 @Controller
 public class MovieController {
-
+//第一次
 	@Resource
 	private MovieService mService;
 	
